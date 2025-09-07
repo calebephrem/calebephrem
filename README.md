@@ -14,9 +14,160 @@ Full-stack developer with a flair for clean code, pixel-perfect interfaces, and 
 
 🧪 I've also used `electron`, `python`, `bash`, and a few extras—handy when the project calls for it, but not part of my core stack.
 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=react"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=tailwind"
+        width="48"
+        height="48"
+        alt="Tailwind"
+      />
+      <br />Tailwind
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=javascript"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=typescript"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br />TypeScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=nodejs"
+        width="48"
+        height="48"
+        alt="Nodejs"
+      />
+      <br />Nodejs
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=express"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br />Express
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=mongo"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=firebase"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br />Firebase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=html"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br />HTML
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=css"
+        width="48"
+        height="48"
+        alt="CSS"
+      />
+      <br />CSS
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=bootstrap"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br />Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=threejs"
+        width="48"
+        height="48"
+        alt="Threejs"
+      />
+      <br />Threejs
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=vite"
+        width="48"
+        height="48"
+        alt="Vite"
+      />
+      <br />Vite
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=git"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=vscode"
+        width="48"
+        height="48"
+        alt="VSCode"
+      />
+      <br />VSCode
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=figma"
+        width="48"
+        height="48"
+        alt="Figma"
+      />
+      <br />Figma
+    </td>
+  </tr>
+</table>
+
 ✨ Let’s build tools that empower creators and make technical setups feel effortless.
 
-<div>
+<div align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
