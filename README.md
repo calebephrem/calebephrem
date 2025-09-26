@@ -1,6 +1,6 @@
 <h1> Hi, I’m <span style="background: linear-gradient(45deg, #6e96fa, #a856f7, #e549a2); background-clip: text; color: transparent; font-weight: 700;">Caleb</span> 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=sans-serif&size=14&height=20&pause=1000&color=dodgerblue&lines=Full+Stack+Developer;UI/Ux+Designer;MERN+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=sans-serif&size=14&height=20&pause=1000&color=dodgerblue&lines=Full+Stack+Developer;UI/UX+Designer;MERN+Stack+Developer" />
 
 Full-stack developer with a flair for clean code, pixel-perfect interfaces, and solving real-world puzzles. I turn ☕ into code, ideas into ecosystems, and bugs into benchmarks. Whether it's crafting tools, curating open source flows—I'm all about remixing complexity into clarity 🚀
 
@@ -165,7 +165,12 @@ Full-stack developer with a flair for clean code, pixel-perfect interfaces, and 
   </tr>
 </table>
 
-✨ Let’s build tools that empower creators and make technical setups feel effortless.
+<table align="center">
+  <tr>
+    <td>✨ Let’s build tools that empower creators and make technical setups feel effortless.</td>
+    <td><img src="./cat-typing.gif" alt="coding" /></td>
+  </tr>
+</table>
 
 <div align="center">
  <picture>
