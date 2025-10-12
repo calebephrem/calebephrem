@@ -90,6 +90,15 @@ Full-stack developer with a flair for clean code, pixel-perfect interfaces, and 
     </td>
   </tr>
   <tr>
+  <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=androidstudio"
+        width="48"
+        height="48"
+        alt="React Native"
+      />
+      <br />ReactNative
+  </td>
     <td align="center" width="96">
       <img
         src="https://skillicons.dev/icons?i=html"
@@ -146,12 +155,41 @@ Full-stack developer with a flair for clean code, pixel-perfect interfaces, and 
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=vscode"
+        src="https://skillicons.dev/icons?i=github"
         width="48"
         height="48"
-        alt="VSCode"
+        alt="GitHub"
       />
-      <br />VSCode
+      <br />GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img
+          src="https://skillicons.dev/icons?i=bash"
+          width="48"
+          height="48"
+          alt="Bash"
+        />
+        <br />Bash
+    </td>
+    <td align="center" width="96">
+        <img
+          src="https://skillicons.dev/icons?i=vscode"
+          width="48"
+          height="48"
+          alt="VSCode"
+        />
+        <br />VSCode
+    </td>
+    <td align="center" width="96">
+        <img
+          src="https://skillicons.dev/icons?i=postman"
+          width="48"
+          height="48"
+          alt="Postman"
+        />
+        <br />Postman
     </td>
     <td align="center" width="96">
       <img
@@ -162,13 +200,49 @@ Full-stack developer with a flair for clean code, pixel-perfect interfaces, and 
       />
       <br />Figma
     </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=linux"
+        width="48"
+        height="48"
+        alt="Linux"
+      />
+      <br />Linux
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=npm"
+        width="48"
+        height="48"
+        alt="NPM"
+      />
+      <br />NPM
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=yarn"
+        width="48"
+        height="48"
+        alt="Yarn"
+      />
+      <br />Yarn
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=python"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br />Python
+    </td>
   </tr>
 </table>
 
 <table align="center">
   <tr>
     <td>✨ Let’s build tools that empower creators and make technical setups feel effortless.</td>
-    <td><img src="./cat-typing.gif" alt="coding" /></td>
+    <td><img src="./cat-typing.gif" alt="coding" height="70" width="100" /></td>
   </tr>
 </table>
 
