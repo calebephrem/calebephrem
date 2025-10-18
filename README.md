@@ -23,7 +23,7 @@ I turn ☕ into 💻, ideas into ecosystems, and bugs into benchmarks. Full-stac
   Got a wild idea? Drop it in my inbox 🛠️
 
 - 💼 **Dev Server** → [discord.gg/MuZFAeVHgp](https://discord.gg/MuZFAeVHgp)  
-  Share your projects, get feedback, and build with other remix-minded devs 🚀
+  Share your projects, get feedback and help, and build projects with developers 🚀
 
 <table align="center">
   <tr>
