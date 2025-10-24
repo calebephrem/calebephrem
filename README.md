@@ -19,9 +19,6 @@ I turn ☕ into 💻, ideas into ecosystems, and bugs into benchmarks. Full-stac
 - 💬 **Discord DM** → [discord.gg/calebephrem](https://discord.gg/calebephrem)  
   Chat, collab, or vibe — I’m always down to debug, brainstorm, or remix ideas ⚡
 
-- 📧 **Email Me** → [quantumpandaprog@gmail.com](mailto:quantumpandaprog@gmail.com)  
-  Got a wild idea? Drop it in my inbox 🛠️
-
 - 💼 **Dev Server** → [discord.gg/MuZFAeVHgp](https://discord.gg/MuZFAeVHgp)  
   Share your projects, get feedback and help, and build projects with developers 🚀
 
