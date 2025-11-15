@@ -1,13 +1,21 @@
 <h1>Hi, I’m <span style="background: linear-gradient(45deg, #6e96fa, #a856f7, #e549a2); background-clip: text; color: transparent; font-weight: 700;">Caleb</span> 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=sans-serif&size=14&height=20&pause=1000&color=dodgerblue&lines=Full+Stack+Developer;UI/UX+Designer;MERN+Stack+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=sans-serif&size=14&height=20&pause=1000&color=dodgerblue&lines=Full+Stack+Developer;UI/UX+Designer;MERN+Stack+Developer" />
+
+<br />
+
+![coding](./coding.gif)
+
+<!-- <br /> -->
 
 I turn ☕ into 💻, ideas into ecosystems, and bugs into benchmarks. Full-stack dev with a remix mindset — clean code and contributor-friendly tools are my jam 🚀
 
 ### 🛠️ Core Stack
+
 `React` · `Tailwind` · `JavaScript` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Firebase` · `React Native` · `Expo` · `Three.js` · `Vite` · `Figma`
 
 ### ⚡ Highlights
+
 - 🎨 Frontend finesse: layout, color theory, and polished UI
 - 🔧 Backend muscle: REST APIs, Node, Express, MongoDB
 - 🔐 Privacy-first dev practices
