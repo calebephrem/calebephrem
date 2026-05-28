@@ -29,6 +29,9 @@ My approach is simple: write code that’s easy to understand, easy to extend, a
 
 ### Connect
 
+- **Email** → [calebephrem@proton.me](mailto:calebephrem@proton.me)  
+  Best for longer messages or formal inquiries.
+
 - **Discord DM** → [discord.gg/calebephrem](https://discord.gg/calebephrem)  
   Reach out to collaborate, share ideas, or just talk through projects.
 
