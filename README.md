@@ -32,10 +32,10 @@ My approach is simple: write code that’s easy to understand, easy to extend, a
 - **Email** → [calebephrem@proton.me](mailto:calebephrem@proton.me)  
   Best for longer messages or formal inquiries.
 
-- **Discord DM** → [discord.gg/calebephrem](https://discord.gg/calebephrem)  
+- **Discord DM** → [@calebephrem](https://discord.com/users/1411006542916091975)  
   Reach out to collaborate, share ideas, or just talk through projects.
 
-- **Dev Server** → [discord.gg/MuZFAeVHgp](https://discord.gg/MuZFAeVHgp)  
+- **Dev Server** → [DevHub](https://discord.gg/MuZFAeVHgp)  
   A space to share work, get feedback, and build alongside other developers.
 
 <table align="center">
