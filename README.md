@@ -8,40 +8,31 @@
 <img src="./coding.gif" alt="coding" />
 
 <p>
-I build things that connect ideas, people, and systems. I enjoy turning rough concepts into structured, usable products, and refining messy code into something fast, clean, and reliable.
+A creative developer making and building things that work and don't hurt to look at.
 </p>
 
-<p>
-My approach is simple: write code that’s easy to understand, easy to extend, and easy for others to contribute to.
-</p>
+### What I Like Doing
 
-### Core Stack
+- Building stuff in TypeScript, Next.js, Tailwind, and others.
+- Making bots, extensions, tools, and full stack sites for clients, and there's a decent chance I'm mid-project for one right now.
+- Trying to write code the next person can actually read, since that's usually just me in three months having forgotten how any of it works xD
+- Picking up new tools when they solve something better than what I'm already using.
 
-`React` · `Tailwind` · `JavaScript` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Firebase` · `React Native` · `Expo` · `Three.js` · `Vite` · `Figma`
+### What I Work With
 
-### What I Focus On
+`TypeScript` · `JavaScript` · `Next.js` · `React` · `Tailwind` · `Node.js` · `Hono` · `MongoDB` · `Firebase` · `React Native` · `Expo` · `Three.js` · `Vite` · `Figma`
 
-- Designing interfaces that feel intuitive and polished
-- Building scalable backends and clean APIs
-- Creating privacy-conscious tools and systems
-- Automating repetitive workflows
-- Contributing to open, remixable developer ecosystems
+### Find Me Online
 
-### Connect
-
-- **Email** → [calebephrem@proton.me](mailto:calebephrem@proton.me)  
-  Best for longer messages or formal inquiries.
-
-- **Discord DM** → [@calebephrem](https://discord.com/users/1411006542916091975)  
-  Reach out to collaborate, share ideas, or just talk through projects.
-
-- **Dev Server** → [DevHub](https://discord.gg/MuZFAeVHgp)  
-  A space to share work, get feedback, and build alongside other developers.
+- **Email** - [calebephrem@proton.me](mailto:calebephrem@proton.me)
+- **X** - [@calebephrem](https://x.com/calebephrem)  
+- **Discord DM** - [@calebephrem](https://discord.com/users/1411006542916091975)  
+- **Dev Server** - [DevHub](https://discord.gg/MuZFAeVHgp)
 
 <table align="center">
   <tr>
     <td>
-      I’m interested in building tools that reduce friction and help creators focus on what actually matters.
+      Interested in building tools that reduce friction and help creators focus on what actually matters
     </td>
     <td>
       <img src="./cat-typing.gif" alt="coding" height="70" width="70" />
